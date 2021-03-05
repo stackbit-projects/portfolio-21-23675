@@ -76,3 +76,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://portfolio-21-23675.netlify.app'
